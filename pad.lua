@@ -3,7 +3,7 @@ local p = Instance.new("Part")
 p.Parent = workspace
 p.Locked = true
 p.BrickColor = BrickColor.new("Magenta")
-p.Size = Vector3.new(3, 20, 3)
+p.Size = Vector3.new(8, 8, 8)
 p.Anchored = true
 p.Transparency = 0.5
 local m = Instance.new("SpecialMesh", N) m.MeshType = "Sphere"
